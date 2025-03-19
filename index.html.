@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Bio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        a {
+            display: block;
+            margin: 20px 0;
+            color: #0077b5;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha Bio</h1>
+    <p>Olá! Somos a Loh & Co. Papelaria Personalizada,
+      e nossa missão é transformar marcas e encantar clientes com produtos criativos e de alta qualidade.
+      Nossa história começou em 2024 quando decidimos apostar no universo da papelaria personalizada. 
+      O que nasceu em um pequeno quarto de casa rapidamente cresceu, Produzimos Balões Personalizados,
+      Kits de Caixinhas Personalizados, Topos de Bolos, Adesivos, Tags, Cartões de visita, Brindes Empresariais e muito mais.
+      Sempre com o compromisso de oferecer produtos que agreguem valor a sua festa e seu negocio.     
+      Atualmente, contamos com uma equipe apaixonada e um espaço próprio para produção, sempre inovando para trazer as melhores soluções para você.
+      Seja bem-vindo à Loh & co.! Aqui, cada detalhe é pensado para inspirar e encantar..</p>
+    
+    <a href="https://wa.me/[+5522998015320]" target="_blank">Meu WhatsApp</a>
+    <a href="https://instagram.com/[loh_e_co]" target="_blank">Meu Instagram</a>
+</body>
+</html>
